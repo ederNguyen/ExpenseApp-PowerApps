@@ -1,0 +1,4 @@
+﻿importsequencenumber,cr849_name,cr849_settingdescription,cr849_settingsexpensesid,cr849_settingvalue,statuscode,statecode,timezoneruleversionnumber,utcconversiontimezonecode,versionnumber,owningbusinessunit
+,setTimeZone,Setting to get current time zone,,SE Asia Standard Time,1,0,,,,
+,currentCurrencySymbol,Currency symbol used throughout the app,,₫,1,0,,,,
+,monthlyBudgetSetting,Setting to get alarms when expenses go over a specific budget threshold,,20000000,1,0,,,,
